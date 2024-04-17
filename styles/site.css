@@ -1,0 +1,7 @@
+header, nav {
+    flex-direction: row;
+}
+
+h1 {
+    align-content: center;
+}
